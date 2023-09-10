@@ -1,0 +1,12 @@
+E:\GH#_componentsDevelopment\SpiralCurveG\SpiralCurveG\bin\Debug\net48\SpiralCurveG.gha
+E:\GH#_componentsDevelopment\SpiralCurveG\SpiralCurveG\bin\Debug\net48\SpiralCurveG.pdb
+E:\GH#_componentsDevelopment\SpiralCurveG\SpiralCurveG\obj\Debug\net48\SpiralCurveG.GeneratedMSBuildEditorConfig.editorconfig
+E:\GH#_componentsDevelopment\SpiralCurveG\SpiralCurveG\obj\Debug\net48\SpiralCurveG.AssemblyInfoInputs.cache
+E:\GH#_componentsDevelopment\SpiralCurveG\SpiralCurveG\obj\Debug\net48\SpiralCurveG.AssemblyInfo.cs
+E:\GH#_componentsDevelopment\SpiralCurveG\SpiralCurveG\obj\Debug\net48\SpiralCurveG.csproj.CoreCompileInputs.cache
+E:\GH#_componentsDevelopment\SpiralCurveG\SpiralCurveG\obj\Debug\net48\SpiralCurveG.gha
+E:\GH#_componentsDevelopment\SpiralCurveG\SpiralCurveG\obj\Debug\net48\SpiralCurveG.pdb
+E:\GH#_componentsDevelopment\SpiralCurveG\SpiralCurveG\obj\Debug\net48\SpiralCurveG.Properties.Resources.resources
+E:\GH#_componentsDevelopment\SpiralCurveG\SpiralCurveG\obj\Debug\net48\SpiralCurveG.csproj.GenerateResource.cache
+E:\GH#_componentsDevelopment\SpiralCurveG\SpiralCurveG\bin\Debug\net48\Resources\spi3.png
+E:\GH#_componentsDevelopment\SpiralCurveG\SpiralCurveG\obj\Debug\net48\SpiralCurveG.csproj.AssemblyReference.cache
